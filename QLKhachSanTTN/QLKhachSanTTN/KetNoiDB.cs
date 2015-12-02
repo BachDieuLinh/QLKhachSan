@@ -7,12 +7,11 @@ using System.Data.SqlClient;
 
 namespace QLKhachSanTTN
 {
-    class KetNoiDB
+    public class KetNoiDB
     {
-        SqlConnection cn = new SqlConnection();
-        static public String KetNoi()
+        public String KetNoi()
         {
-            return (@"Data Source=ADMINISTRATOR\LINH;Initial Catalog=QLKho;Integrated Security=True");
+            return (@"Data Source=HOME;Initial Catalog=QL_KhachSan;Integrated Security=True");
         }
     }
 }
