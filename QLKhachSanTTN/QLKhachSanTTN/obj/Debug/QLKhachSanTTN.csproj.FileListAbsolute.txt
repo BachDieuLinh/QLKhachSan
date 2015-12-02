@@ -7,3 +7,14 @@ D:\Study Kỳ 1 năm 4\Github\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\bin\Debug\Q
 D:\Study Kỳ 1 năm 4\Github\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.frmTBThietBi.resources
 D:\Study Kỳ 1 năm 4\Github\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.exe
 D:\Study Kỳ 1 năm 4\Github\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.pdb
+E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.exe
+E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.pdb
+E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.csprojResolveAssemblyReference.cache
+E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.frmMain.resources
+E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.frmTBThietBi.resources
+E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.Properties.Resources.resources
+E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.csproj.GenerateResource.Cache
+E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\bin\Debug\QLKhachSanTTN.exe
+E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\bin\Debug\QLKhachSanTTN.pdb
+E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.FormMenu.resources
+E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.FormPhong.resources

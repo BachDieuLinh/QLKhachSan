@@ -16,7 +16,7 @@ namespace QLKhachSanTTN
         {
             InitializeComponent();
         }
-        TrangBiTB tbtb = new TrangBiTB();
+        objTrangBiTB tbtb = new objTrangBiTB();
         int chose, loai;
         int sukien = 0;
         

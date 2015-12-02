@@ -9,9 +9,9 @@ namespace QLKhachSanTTN
 {
     public class KetNoiDB
     {
-        public String KetNoi()
+        static public String KetNoi()
         {
-            return (@"Data Source=HOME;Initial Catalog=QL_KhachSan;Integrated Security=True");
+            return (@"Data Source=ADMINISTRATOR\LINH;Initial Catalog=QL_KhachSan;Integrated Security=True");
         }
     }
 }

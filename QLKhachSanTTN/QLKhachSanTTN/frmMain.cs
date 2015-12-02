@@ -11,9 +11,30 @@ namespace QLKhachSanTTN
 {
     public partial class frmMain : Form
     {
+        objDangNhap DN = new objDangNhap();
         public frmMain()
         {
             InitializeComponent();
+        }
+
+        private void btnDangNhap_Click(object sender, EventArgs e)
+        {
+            FormMenu frmMenu = new FormMenu();
+            Form frm = new Form();
+            DataTable dt = new DataTable();
+            dt = DN.DangNhap(txtTenDN.Text, txtMK.Text);
+            if (dt.Rows.Count != 0)
+            {
+                this.Hide();
+                frmMenu.ShowDialog();
+                this.Show();
+            }
+            else MessageBox.Show("Đăng nhập không thành công!");
+        }
+
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
