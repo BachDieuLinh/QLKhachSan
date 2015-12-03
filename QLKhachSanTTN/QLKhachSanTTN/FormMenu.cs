@@ -15,5 +15,17 @@ namespace QLKhachSanTTN
         {
             InitializeComponent();
         }
+
+        private void kháchHàngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormQLKhachHang frmQLKH = new FormQLKhachHang();
+            frmQLKH.Show();
+        }
+
+        private void mượnTrảPhòngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormQLThuePhong frmThuePhong = new FormQLThuePhong();
+            frmThuePhong.Show();
+        }
     }
 }
