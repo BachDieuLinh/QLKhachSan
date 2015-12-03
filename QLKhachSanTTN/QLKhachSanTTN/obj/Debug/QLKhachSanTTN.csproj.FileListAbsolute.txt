@@ -18,3 +18,4 @@ E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\bin\Debug\QLKhachS
 E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\bin\Debug\QLKhachSanTTN.pdb
 E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.FormMenu.resources
 E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.FormPhong.resources
+E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.FormQLKhachHang.resources

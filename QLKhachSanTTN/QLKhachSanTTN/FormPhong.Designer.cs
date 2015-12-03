@@ -319,7 +319,7 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "FormPhong";
-            this.Text = "FormPhong";
+            this.Text = "Phòng";
             this.Load += new System.EventHandler(this.btnLuu_Click);
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();

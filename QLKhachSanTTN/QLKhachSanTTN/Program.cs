@@ -15,7 +15,7 @@ namespace QLKhachSanTTN
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormPhong());
+            Application.Run(new FormQLKhachHang());
         }
     }
 }

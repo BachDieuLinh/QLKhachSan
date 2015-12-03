@@ -11,7 +11,7 @@ namespace QLKhachSanTTN
     {
         static public String KetNoi()
         {
-            return (@"Data Source=ADMINISTRATOR\LINH;Initial Catalog=QL_KhachSan;Integrated Security=True");
+            return (@"Data Source=ADMINISTRATOR\LINH;Initial Catalog=QLKhachSan;Integrated Security=True");
         }
     }
 }
