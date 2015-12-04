@@ -38,12 +38,16 @@
             System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("Form Phòng");
             System.Windows.Forms.TreeNode treeNode7 = new System.Windows.Forms.TreeNode("Form QL Khách Hàng");
             System.Windows.Forms.TreeNode treeNode8 = new System.Windows.Forms.TreeNode("Form QL Thiết Bị");
-            System.Windows.Forms.TreeNode treeNode9 = new System.Windows.Forms.TreeNode("HƯỚNG DẪN SỬ DỤNG", new System.Windows.Forms.TreeNode[] {
+            System.Windows.Forms.TreeNode treeNode9 = new System.Windows.Forms.TreeNode("Form QL Thuê Phòng");
+            System.Windows.Forms.TreeNode treeNode10 = new System.Windows.Forms.TreeNode("Form Ghi CT HĐ");
+            System.Windows.Forms.TreeNode treeNode11 = new System.Windows.Forms.TreeNode("HƯỚNG DẪN SỬ DỤNG", new System.Windows.Forms.TreeNode[] {
             treeNode4,
             treeNode5,
             treeNode6,
             treeNode7,
-            treeNode8});
+            treeNode8,
+            treeNode9,
+            treeNode10});
             this.treeView1 = new System.Windows.Forms.TreeView();
             this.webBrowser1 = new System.Windows.Forms.WebBrowser();
             this.SuspendLayout();
@@ -70,11 +74,15 @@
             treeNode7.Text = "Form QL Khách Hàng";
             treeNode8.Name = "root_HD_TB";
             treeNode8.Text = "Form QL Thiết Bị";
-            treeNode9.Name = "root_HD";
-            treeNode9.Text = "HƯỚNG DẪN SỬ DỤNG";
+            treeNode9.Name = "root_HD_TP";
+            treeNode9.Text = "Form QL Thuê Phòng";
+            treeNode10.Name = "root_HD_CTHD";
+            treeNode10.Text = "Form Ghi CT HĐ";
+            treeNode11.Name = "root_HD";
+            treeNode11.Text = "HƯỚNG DẪN SỬ DỤNG";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
             treeNode3,
-            treeNode9});
+            treeNode11});
             this.treeView1.Size = new System.Drawing.Size(228, 379);
             this.treeView1.TabIndex = 4;
             this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterSelect);

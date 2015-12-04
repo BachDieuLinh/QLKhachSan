@@ -16,14 +16,13 @@ namespace QLKhachSanTTN
             InitializeComponent();
         }
 
-<<<<<<< HEAD
         private void helpToolStripMenuItem_Click(object sender, EventArgs e)
         {
             frmHuongDan frm = new frmHuongDan();
             frm.ShowDialog();
             frm.Close();
             frm.Dispose();
-=======
+        }
         private void kháchHàngToolStripMenuItem_Click(object sender, EventArgs e)
         {
             FormQLKhachHang frmQLKH = new FormQLKhachHang();
@@ -34,7 +33,6 @@ namespace QLKhachSanTTN
         {
             FormQLThuePhong frmThuePhong = new FormQLThuePhong();
             frmThuePhong.Show();
->>>>>>> origin/master
         }
     }
 }

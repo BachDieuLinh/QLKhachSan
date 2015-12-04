@@ -54,6 +54,16 @@ namespace QLKhachSanTTN
                 str = Application.StartupPath + "\\Huong Dan\\Form Thiet Bi.mht";
                 webBrowser1.Navigate(str);
             }
+            if (treeView1.SelectedNode.Name == "root_HD_TP")
+            {
+                str = Application.StartupPath + "\\Huong Dan\\Form QL Thue Phong.mht";
+                webBrowser1.Navigate(str);
+            }
+            if (treeView1.SelectedNode.Name == "root_HD_CTHD")
+            {
+                str = Application.StartupPath + "\\Huong Dan\\Form CTHD.mht";
+                webBrowser1.Navigate(str);
+            }
         }
     }
 }

@@ -68,19 +68,17 @@
     <Compile Include="FormQLKhachHang.Designer.cs">
       <DependentUpon>FormQLKhachHang.cs</DependentUpon>
     </Compile>
-<<<<<<< HEAD
     <Compile Include="frmHuongDan.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmHuongDan.Designer.cs">
       <DependentUpon>frmHuongDan.cs</DependentUpon>
-=======
+      </Compile>
     <Compile Include="FormQLThuePhong.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormQLThuePhong.Designer.cs">
       <DependentUpon>FormQLThuePhong.cs</DependentUpon>
->>>>>>> origin/master
     </Compile>
     <Compile Include="frmMain.cs">
       <SubType>Form</SubType>
@@ -115,13 +113,11 @@
     <EmbeddedResource Include="FormQLKhachHang.resx">
       <DependentUpon>FormQLKhachHang.cs</DependentUpon>
     </EmbeddedResource>
-<<<<<<< HEAD
     <EmbeddedResource Include="frmHuongDan.resx">
       <DependentUpon>frmHuongDan.cs</DependentUpon>
-=======
+ </EmbeddedResource>
     <EmbeddedResource Include="FormQLThuePhong.resx">
       <DependentUpon>FormQLThuePhong.cs</DependentUpon>
->>>>>>> origin/master
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
