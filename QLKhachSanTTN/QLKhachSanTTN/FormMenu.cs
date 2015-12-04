@@ -15,5 +15,13 @@ namespace QLKhachSanTTN
         {
             InitializeComponent();
         }
+
+        private void helpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmHuongDan frm = new frmHuongDan();
+            frm.ShowDialog();
+            frm.Close();
+            frm.Dispose();
+        }
     }
 }
