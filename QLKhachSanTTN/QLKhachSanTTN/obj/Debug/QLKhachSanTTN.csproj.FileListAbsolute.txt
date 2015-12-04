@@ -27,3 +27,4 @@ D:\Study Kỳ 1 năm 4\Github\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\Q
 D:\Study Kỳ 1 năm 4\Github\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.FormQLKhachHang.resources
 D:\Study Kỳ 1 năm 4\Github\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.frmHuongDan.resources
 D:\Study Kỳ 1 năm 4\Github\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.FormQLThuePhong.resources
+E:\Nam 4 ki 1\TT nhóm\QLKhachSan\QLKhachSanTTN\QLKhachSanTTN\obj\Debug\QLKhachSanTTN.frmHuongDan.resources
